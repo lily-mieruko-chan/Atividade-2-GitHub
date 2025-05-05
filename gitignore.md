@@ -1,0 +1,4 @@
+# Arquivos de backup
+*.bak
+
+
